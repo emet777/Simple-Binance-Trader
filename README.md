@@ -53,3 +53,5 @@ https://docs.google.com/document/d/1VUx_1O5kQQxk0HfqqA8WyQpk6EbbnXcezAdqXkOMklo/
 ### Contact
 Please if you find any bugs or issues contact me so I can improve.
 EMAIL: jlennie1996@gmail.com
+
+[![Run on Repl.it](https://repl.it/badge/github/EasyAI/Simple-Binance-Trader)](https://repl.it/github/EasyAI/Simple-Binance-Trader)
